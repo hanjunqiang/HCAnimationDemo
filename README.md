@@ -1,6 +1,6 @@
 # HCAnimationDemo
 一句话实现常用动画，操作简单、接口清晰、代码易懂。
-![image]() 
+![image](https://github.com/honeycao/HCAnimationDemo/blob/master/HCAnimation.gif) 
 ------
 
 ##1、功能实现
